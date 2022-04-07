@@ -3,9 +3,9 @@ using namespace std;
 #include <string>
 #include "person.h"
 
-person::person(){
-    name = "?";
-    salary = 0;
+person::person(string name,int salary);{
+    this - > name = name;
+    this - > salary = salary;
 }
 
 void person::setName(std::string name){
