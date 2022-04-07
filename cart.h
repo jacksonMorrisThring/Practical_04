@@ -1,6 +1,8 @@
 #ifndef CART_H
 #define CART_H
 
+#include "meerkat.h"
+
 #include <string>
 
 class cart {
