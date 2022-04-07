@@ -5,7 +5,7 @@
 
 class person {
     public:
-    person();
+    person(std::string myName,int Salary);
 
     std::string name;
     int salary;
