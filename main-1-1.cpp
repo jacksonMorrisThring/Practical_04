@@ -5,10 +5,10 @@ using namespace std;
 
 int main(){
 
-    Meerkat John;
-    Meerkat Marty;
-    Meerkat Peter;
-    Meerkat Sophie;
+    meerkat John;
+    meerkat Marty;
+    meerkat Peter;
+    meerkat Sophie;
     
 
 

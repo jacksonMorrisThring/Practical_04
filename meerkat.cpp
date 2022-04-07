@@ -3,20 +3,20 @@ using namespace std;
 #include <string>
 #include "meerkat.h"
 
-Meerkat::Meerkat(){
+meerkat::meerkat(){
     name = "?";
     age = 0;
 }
 
-void Meerkat::setName(std::string name){
+void meerkat::setName(std::string name){
     this -> name = name;
 }   
-std::string Meerkat::getName(){
+std::string meerkat::getName(){
     return name;
 }
-void Meerkat::setAge(int age){
+void meerkat::setAge(int age){
     this -> age = age;
 }
-int Meerkat::getAge(){
+int meerkat::getAge(){
     return age;
 }   

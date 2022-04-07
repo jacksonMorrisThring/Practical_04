@@ -3,9 +3,9 @@
 
 #include <string>
 
-class Meerkat {
+class meerkat {
     public:
-    Meerkat();
+    meerkat();
 
     std::string name;
     int age;
