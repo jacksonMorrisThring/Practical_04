@@ -3,7 +3,7 @@ using namespace std;
 #include <string>
 #include "person.h"
 
-person::person(string name,int salary);{
+person::person(string name,int salary){
     this - > name = name;
     this - > salary = salary;
 }
