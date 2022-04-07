@@ -27,9 +27,5 @@ int main(){
     cout << "Meerkat name is " << Peter.getName() <<" and is " << Peter.getAge() << " years old" <<endl;
     cout << "Meerkat name is " << Sophie.getName() <<" and is " << Sophie.getAge() << " years old" <<endl;
 
-
-
-
-
     return 0;
 }
