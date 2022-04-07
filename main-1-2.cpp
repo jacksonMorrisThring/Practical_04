@@ -5,10 +5,10 @@ using namespace std;
 
 int main(){
 
-    person John;
-    person Marty;
-    person Peter;
-    person Sophie;
+    person John("Pee", 50000);
+    person Marty("Pee", 50000);
+    person Peter("Pee", 50000);
+    person Sophie("Pee", 50000);
     
 
 
