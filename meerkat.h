@@ -14,6 +14,8 @@ class meerkat {
     std::string getName();
     void setAge(int meerAge);        // change the meerkat's age
     int getAge();   
+
+    ~meerkat();
 };
 
 #endif
